@@ -60,4 +60,4 @@
    56  docker kill task
    57  docker rm -f e49946b3e721  
    58  history
-  # After code runs successfully on Ec2 Instance and docker image is built, a git webhook is created so whevever changes is commited it is triggered. 
+  # After code runs successfully on Ec2 Instance and docker image is built, a git webhook is created so whenever changes is commited it is triggered. 
